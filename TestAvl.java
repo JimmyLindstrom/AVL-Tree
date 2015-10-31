@@ -1,4 +1,3 @@
-package Inlämmningsuppgift3;
 
 /**
  * Class for testing the AVL-Tree
