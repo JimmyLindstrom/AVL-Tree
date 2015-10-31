@@ -1,7 +1,6 @@
-package Inlämmningsuppgift3;
 
 /**
- * Class representing an AVL-Tree extending the Inlämmningsuppgift3.BinaryTree-class.
+ * Class representing an AVL-Tree extending the BinaryTree-class.
  *
  * @author Jimmy Lindström
  */
