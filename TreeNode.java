@@ -1,4 +1,3 @@
-package Inlämmningsuppgift3;
 
 /**
  * Class representing a node in an AVL/BST Tree, and stores the value of the node
