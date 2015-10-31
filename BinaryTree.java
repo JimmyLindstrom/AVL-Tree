@@ -1,4 +1,3 @@
-package Inlämmningsuppgift3;
 
 import java.util.NoSuchElementException;
 
